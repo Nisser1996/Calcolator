@@ -1,0 +1,13 @@
+Nisser Aldossary 
+CS480
+Lab3 
+
+Used java language with netbeans IDE.
+To compile and run the calculator: 
+- Open the project file within netbeans or a similar IDE.
+or
+- Download and run the calculator.jar file included in the repository.
+    Building jar: C:\....\Source_Code_Aldossary_Nisser\calculator\dist\calculator.jar
+
+    To run this application from the command line without Ant, try:
+    java -jar "C:\....\Source_Code_Aldossary_Nisser\calculator\dist\calculator.jar"
